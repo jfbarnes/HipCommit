@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HipCommit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SVNRevisionArg" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="HipChatRoomUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.hipchat.com/v2/room/349520/notification?auth_token=T6laQ9lgomycoWhbkxCggKzulH6zsShmsYoclbQ1</Value>
+    </Setting>
+    <Setting Name="AssemblaRepoUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://subversion.assembla.com/svn/alpsva/</Value>
+    </Setting>
+    <Setting Name="AssemblaTicketsUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.assembla.com/spaces/alpsva/tickets/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
